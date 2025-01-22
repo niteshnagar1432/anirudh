@@ -52,7 +52,7 @@ const firebaseConfig = {
 console.log(firebaseConfig);
 
 // Initialize Firebase
-const app_b = initializeApp(firebaseConfig);
+// const app_b = initializeApp(firebaseConfig);
 
 // Cloudinary configuration function
 function configureCloudinary() {
